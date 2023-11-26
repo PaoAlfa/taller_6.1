@@ -1,2 +1,2 @@
-# taller_7
+# taller_6.1
 docker
